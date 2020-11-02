@@ -4,8 +4,6 @@
 
 # Session Data files
 .RData
-census_data1.csv
-survey_data1.csv
 
 # User-specific files
 .Ruserdata
